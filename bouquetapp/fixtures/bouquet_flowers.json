@@ -57,7 +57,7 @@
     "model": "bouquetapp.BouquetFlower",
     "pk": 7,
     "fields": {
-      "flower_id": 1,
+      "flower_id": 2,
       "bouquet_id": 2,
       "quantity": 15
     }
